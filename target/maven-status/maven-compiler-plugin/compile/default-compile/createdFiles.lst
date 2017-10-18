@@ -1,0 +1,8 @@
+com\sri\sessions\DatabaseProperties.class
+com\sri\sessions\ItemDAO.class
+com\sri\sessions\LoginServlet.class
+com\sri\sessions\SessionFilter.class
+com\sri\sessions\Controller.class
+com\sri\sessions\Item.class
+com\sri\sessions\HashGenerator.class
+com\sri\sessions\LogoutServlet.class
